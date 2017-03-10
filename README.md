@@ -1,13 +1,4 @@
-#Janna Vancza
 
-I am a junior at Indiana University-Purdue University studying for a dual major in computer science and applied mathematics with a concentration in statistics. 
-
-I spend so much time studying math that I have decided to come to the web, in my free time, to learn what really interests me, _coding!!_ 
-
-I love:
-1. Math
-2. Data science
-3. Learning new skills
 
 You can use the [editor on GitHub](https://github.com/jdvancza/jdvancza.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
